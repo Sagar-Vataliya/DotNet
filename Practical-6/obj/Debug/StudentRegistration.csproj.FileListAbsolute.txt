@@ -1,0 +1,9 @@
+D:\5HY4M\DOTNET PRACTICAL\Form\StudentRegistration\obj\Debug\StudentRegistration.Form1.resources
+D:\5HY4M\DOTNET PRACTICAL\Form\StudentRegistration\obj\Debug\StudentRegistration.Properties.Resources.resources
+D:\5HY4M\DOTNET PRACTICAL\Form\StudentRegistration\obj\Debug\StudentRegistration.csproj.GenerateResource.cache
+D:\5HY4M\DOTNET PRACTICAL\Form\StudentRegistration\obj\Debug\StudentRegistration.csproj.CoreCompileInputs.cache
+D:\5HY4M\DOTNET PRACTICAL\Form\StudentRegistration\bin\Debug\StudentRegistration.exe
+D:\5HY4M\DOTNET PRACTICAL\Form\StudentRegistration\bin\Debug\StudentRegistration.pdb
+D:\5HY4M\DOTNET PRACTICAL\Form\StudentRegistration\obj\Debug\StudentRegistration.exe
+D:\5HY4M\DOTNET PRACTICAL\Form\StudentRegistration\obj\Debug\StudentRegistration.pdb
+D:\5HY4M\DOTNET PRACTICAL\Form\StudentRegistration\obj\Debug\StudentRegistration.csprojAssemblyReference.cache

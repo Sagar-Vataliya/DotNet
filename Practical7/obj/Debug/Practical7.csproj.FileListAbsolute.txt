@@ -1,0 +1,7 @@
+D:\5HY4M\DOTNET PRACTICAL\Practical7\Practical7\bin\Practical7.dll.config
+D:\5HY4M\DOTNET PRACTICAL\Practical7\Practical7\bin\Practical7.dll
+D:\5HY4M\DOTNET PRACTICAL\Practical7\Practical7\bin\Practical7.pdb
+D:\5HY4M\DOTNET PRACTICAL\Practical7\Practical7\obj\Debug\Practical7.csprojAssemblyReference.cache
+D:\5HY4M\DOTNET PRACTICAL\Practical7\Practical7\obj\Debug\Practical7.csproj.CoreCompileInputs.cache
+D:\5HY4M\DOTNET PRACTICAL\Practical7\Practical7\obj\Debug\Practical7.dll
+D:\5HY4M\DOTNET PRACTICAL\Practical7\Practical7\obj\Debug\Practical7.pdb
